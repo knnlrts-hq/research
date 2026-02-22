@@ -12,5 +12,3 @@ Your final commit should include just that folder and selected items from its co
 - If appropriate, any binary files you created along the way provided they are less than 2MB in size
 
 Do NOT include full copies of code that you fetched as part of your investigation. Your final commit should include only new files you created or diffs showing changes you made to existing code.
-
-Don't create a _summary.md file - these are added automatically after you commit your changes.
